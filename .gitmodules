@@ -1,0 +1,12 @@
+[submodule ".vim/pack/foo/start/nerdtree"]
+	path = .vim/pack/foo/start/nerdtree
+	url = https://github.com/preservim/nerdtree.git
+[submodule ".vim/pack/foo/start/lightline.vim"]
+	path = .vim/pack/foo/start/lightline.vim
+	url = https://github.com/itchyny/lightline.vim.git
+[submodule ".vim/pack/foo/start/rainbow"]
+	path = .vim/pack/foo/start/rainbow
+	url = https://github.com/luochen1990/rainbow.git
+[submodule ".vim/pack/foo/start/vim-autoformat"]
+	path = .vim/pack/foo/start/vim-autoformat
+	url = https://github.com/Chiel92/vim-autoformat.git
