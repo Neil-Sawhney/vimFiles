@@ -10,3 +10,6 @@
 [submodule ".vim/pack/foo/start/vim-autoformat"]
 	path = .vim/pack/foo/start/vim-autoformat
 	url = https://github.com/Chiel92/vim-autoformat.git
+[submodule ".vim/pack/foo/start/emmet-vim"]
+	path = .vim/pack/foo/start/emmet-vim
+	url = https://github.com/mattn/emmet-vim.git
