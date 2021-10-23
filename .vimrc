@@ -3,7 +3,6 @@ set nocompatible
 filetype plugin indent on 
 syntax on
 
-set rnu
 set nu
 colorscheme industry
 set nowrap
