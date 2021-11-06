@@ -16,3 +16,5 @@ autocmd FileType css set omnifunc=csscomplete#CompleteCSS
 set laststatus=2
 let g:rainbow_active = 0
 nnoremap <esc>^[ <esc>^[
+
+set nrformats=alpha
