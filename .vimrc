@@ -6,7 +6,7 @@ syntax on
 set nu
 set rnu
 colorscheme industry
-set nowrap
+set wrap
 
 let g:user_emmet_leader_key='<C-Z>'
 packadd! matchit
