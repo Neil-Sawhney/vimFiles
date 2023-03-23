@@ -16,3 +16,6 @@
 [submodule ".vim/pack/foo/start/vim-visual-increment"]
 	path = .vim/pack/foo/start/vim-visual-increment
 	url = git@github.com:triglav/vim-visual-increment.git
+[submodule ".vim/pack/foo/start/vim-surround"]
+	path = .vim/pack/foo/start/vim-surround
+	url = git@github.com:tpope/vim-surround.git
