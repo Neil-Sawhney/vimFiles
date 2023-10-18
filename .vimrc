@@ -17,3 +17,10 @@ let g:rainbow_active = 0
 nnoremap <esc>^[ <esc>^[
 
 set nrformats=alpha
+if has("patch-7.4.354")
+    " Indents word-wrapped lines as much as the 'parent' line
+    set breakindent
+    " Ensures word-wrap does not split words
+    set formatoptions=l
+    set lbr
+endif
